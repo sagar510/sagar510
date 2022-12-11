@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sagar510" alt="sagar510" /></a> </p>
 
-- 🔭 I’m currently working on **Algorithm to Encrypt and Decrypt your secured Message**
+- 🔭 I’m currently working on **Algorithm to Encrypt and Decrypt a confidential Message**
 
 - 🌱 I’m currently learning **Functional Programming (Recursion) and Advanced SQL**
 
-- 👯 I’m looking to collaborate on **Ecommerce**
+- 👯 I’m looking to collaborate on **Ecommerce Web App Project**
 
 - 📝 I have my Own .com Portfolio Website [https://www.sagarpal.com](https://www.sagarpal.com)
 
