@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sagar510" alt="sagar510" /></a> </p>
 
-- 🔭 I’m currently working on **on Enhancing Core Logics of Programming**
+- 🔭 I’m currently working on **on Enhancing Core Logics of Web Programming**
 
-- 🌱 I’m currently learning **Functional Programming (Recursion) and Advanced SQL**
+- 🌱 I’m currently learning **Rails React and Advanced SQL**
 
-- 👯 I’m looking to collaborate on **Ecommerce Web App Project**
+- 👯 I’m looking to collaborate on **Ecommerce/Sales Web App Project**
 
 - 📝 I have my Own .com Portfolio Website [https://www.sagarpal.com](https://www.sagarpal.com)
 
