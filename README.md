@@ -13,7 +13,7 @@
 
 - 📝 I have my Own .com Portfolio Website [https://www.sagarpal.com](https://www.sagarpal.com)
 
-- 📫 How to reach me **sagarpa786t@gmail.com**
+- 📫 How to reach me **psagarmca9@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
