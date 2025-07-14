@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sagar Pal</h1>
-<h3 align="center">A passionate Programmer from Pune,India</h3>
+<h3 align="center">A Backend Software Devloper</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sagar510&label=Profile%20views&color=0e75b6&style=flat" alt="sagar510" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sagar510" alt="sagar510" /></a> </p>
 
-- 🔭 I’m currently working on **on Enhancing Core Logics of Web Programming**
+- 🔭 I’m currently working on **GoLang and Ruby on Rails**
 
-- 🌱 I’m currently learning **Rails React and Advanced SQL**
+- 🌱 I’m currently learning **Data Structures and Algorithm**
 
 - 👯 I’m looking to collaborate on **Ecommerce/Sales Web App Project**
 
